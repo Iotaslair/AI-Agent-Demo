@@ -24,7 +24,7 @@ Our current systems track orders and the events related to them (shipping update
 ### Technical Requirements
 - [ ] Written in Go following TDD methodology
 - [ ] Modular package architecture
-- [ ] Mock external API calls for development
+- [ ] Mock external API calls for tests
 - [ ] Full test coverage with passing tests
 
 ## Technical Context
