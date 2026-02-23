@@ -21,11 +21,11 @@ Once it's done run the code with `go run fizzbuzz.go`
 ## Iterate with it
 Ask it to make the program output like two people are actually playing FizzBuzz. Something like:
 
-Alice: 1
-Bob: 2
-Alice: Fizz
-Bob: 4
-Alice: Buzz
+- Alice: 1
+- Bob: 2
+- Alice: Fizz
+- Bob: 4
+- Alice: Buzz
 
 ## Iterate some more
 Ask it to add unit tests to the code. AI agents are at their best when they can verify if their output is correct.
